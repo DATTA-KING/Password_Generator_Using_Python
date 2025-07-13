@@ -37,7 +37,7 @@ It includes a graphical user interface (GUI) where users can input the password 
 ## 📸 ScreenShots
 
 >![img alt](https://github.com/DATTA-KING/Password_Generator_Using_Python/blob/3b62fb8b6b9073dcc3ce50efb4e122ddcc2cf847/Output%20Img/Screenshot%20Password.png)
->![img alt]()
+>![img alt](https://github.com/DATTA-KING/Password_Generator_Using_Python/blob/384047cf306a2ba6ca8af745163753f49f2bbad7/Output%20Img/Screenshot%20output.png)
 >![img alt]()
 
 ---
